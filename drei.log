@@ -1,0 +1,13 @@
+Progress: resolved 0, reused 1, downloaded 0, added 0
+ WARN  deprecated eslint@9.39.5: This version is no longer supported. Please see https://eslint.org/version-support for other options.
+ WARN  deprecated @types/gsap@3.0.0: This is a stub types definition. gsap provides its own type definitions, so you do not need this installed.
+Progress: resolved 20, reused 20, downloaded 0, added 0
+Progress: resolved 21, reused 21, downloaded 0, added 0
+Progress: resolved 64, reused 48, downloaded 0, added 0
+Progress: resolved 149, reused 120, downloaded 0, added 0
+Progress: resolved 362, reused 282, downloaded 0, added 0
+Already up to date
+Progress: resolved 496, reused 423, downloaded 0, added 0
+Progress: resolved 496, reused 423, downloaded 0, added 0, done
+
+Done in 9.2s using pnpm v10.29.1

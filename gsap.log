@@ -1,0 +1,36 @@
+Progress: resolved 0, reused 1, downloaded 0, added 0
+ WARN  deprecated eslint@9.39.5: This version is no longer supported. Please see https://eslint.org/version-support for other options.
+Progress: resolved 10, reused 10, downloaded 0, added 0
+Progress: resolved 16, reused 16, downloaded 0, added 0
+ WARN  deprecated @types/gsap@3.0.0: This is a stub types definition. gsap provides its own type definitions, so you do not need this installed.
+Progress: resolved 17, reused 16, downloaded 1, added 0
+Progress: resolved 24, reused 23, downloaded 1, added 0
+Progress: resolved 63, reused 44, downloaded 1, added 0
+Progress: resolved 126, reused 104, downloaded 1, added 0
+Progress: resolved 144, reused 114, downloaded 1, added 0
+Progress: resolved 200, reused 145, downloaded 1, added 0
+Progress: resolved 265, reused 188, downloaded 1, added 0
+Progress: resolved 292, reused 214, downloaded 1, added 0
+Progress: resolved 300, reused 222, downloaded 1, added 0
+Progress: resolved 307, reused 230, downloaded 1, added 0
+Progress: resolved 332, reused 250, downloaded 1, added 0
+Progress: resolved 343, reused 262, downloaded 1, added 0
+Progress: resolved 348, reused 267, downloaded 1, added 0
+Progress: resolved 354, reused 273, downloaded 1, added 0
+Progress: resolved 362, reused 281, downloaded 1, added 0
+Progress: resolved 390, reused 310, downloaded 1, added 0
+Progress: resolved 415, reused 341, downloaded 1, added 0
+Progress: resolved 446, reused 372, downloaded 1, added 0
+Progress: resolved 476, reused 402, downloaded 1, added 0
+Progress: resolved 492, reused 418, downloaded 1, added 0
+Packages: +2
+++
+Progress: resolved 492, reused 418, downloaded 1, added 1
+Progress: resolved 492, reused 418, downloaded 1, added 2
+Progress: resolved 492, reused 418, downloaded 1, added 2, done
+
+dependencies:
++ @types/gsap 3.0.0 deprecated
++ gsap 3.15.0
+
+Done in 31.3s using pnpm v10.29.1
